@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=m-talha-shaikh&style=flat-square)
+
+
 # 💫 About Me:
 👋 Hey there! I'm Talha, a computer science student with a passion for full-stack development and machine learning. 💻  <br>While I specialize in backend systems, I also love diving into the world of data and algorithms to create intelligent solutions. 🤖 <br>Throughout my studies, I'm constantly exploring new technologies and refining my skills to build robust and scalable applications.
 
